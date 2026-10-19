@@ -1,6 +1,9 @@
 # 4-Bit Pincode
 A 4-digit sequential passcode lock built on a breadboard using no microcontroller, no firmware, and zero code.
 
+![Circuit - Breadboard](circuit_breadboard.jpg)
+![Circuit - KiCad](circuit_kicad.jpg)
+
 ## How it works
 The circuit uses a single 74HC595 shift register to track your progress through the code:
 
